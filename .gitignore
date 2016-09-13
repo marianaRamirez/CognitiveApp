@@ -1,0 +1,17 @@
+.classpath
+.codepro
+.DS_Store
+.gradle
+.idea
+.project
+.settings
+build
+gradle
+gradlew
+gradlew.bat
+target
+bin/
+*.iml
+*.ipr
+*.iws
+src/test/resources/.config.properties
